@@ -1,0 +1,2 @@
+# ESSixSpreadOperatorPractice
+Created with CodeSandbox
